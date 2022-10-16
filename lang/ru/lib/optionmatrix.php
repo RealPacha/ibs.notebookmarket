@@ -1,0 +1,3 @@
+<?
+    $MESS["NOTEBOOK_MARKET_OPTION_MATRIX_TABLE_NAME"] = "Тип матрицы";
+?>

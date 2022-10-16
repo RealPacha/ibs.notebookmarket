@@ -1,0 +1,3 @@
+<?
+    $MESS["NOTEBOOK_MARKET_OPTION_MEMORY_TYPE_TABLE_NAME"] = "Тип накопителя";
+?>

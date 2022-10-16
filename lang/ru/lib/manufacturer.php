@@ -1,0 +1,3 @@
+<?
+    $MESS["NOTEBOOK_MARKET_MANUFACTURER_TABLE_NAME"] = "Производитель";
+?>

@@ -1,0 +1,3 @@
+<?
+    $MESS["NOTEBOOK_MARKET_MODEL_TABLE_NAME"] = "Модель";
+?>

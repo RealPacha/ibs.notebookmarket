@@ -1,0 +1,5 @@
+<?
+    $MESS["NOTEBOOK_MARKET_NOTEBOOK_TABLE_NAME"] = "Название ноутбука";
+    $MESS["NOTEBOOK_MARKET_NOTEBOOK_TABLE_YEAR"] = "Год выпуска";
+    $MESS["NOTEBOOK_MARKET_NOTEBOOK_TABLE_PRICE"] = "Цена";
+?>
